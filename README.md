@@ -4,7 +4,11 @@
 >
 > #### Author: _Siddharth Yadav (syntax-surgeon)_
 
+<br>
+
 ### linear_regression_from_scratch.ipynb
+
+<br>
 
 - Contains version-1.0 of the main program which tries to implement a **single-variable linear regression algorithm**
 - A single class **_'LinearRegressionAlgorithm'_** is provided to intialize the model, train the model and plot the results
@@ -14,6 +18,8 @@
     - Scatterplot of the data with the best regression line and numpy polyfit line
     - The total error (RMSE) per epoch
 - A randomly generated dataset is provided to test the algorithm and plot the results
+
+<br>
 
 > #### **(_Figure 1_)** Results of training the linear regression algorithm on a randomly generated dataset
 >
